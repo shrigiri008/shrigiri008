@@ -1,5 +1,5 @@
 # 💫 About Me:
-A man with creativity born from big-bang of many blunders that chases the universe with it expanding.<br>I'm a tech enthusiast, which also finds its way in many other shits.<br>Currently pursuing BCA, self-learning Android Development (Kotlin and Jetpack Compose).<br>I sometimes hang out with languages taught in college.
+A man with creativity born from big-bang of many blunders that chases the universe with it expanding.<br>I'm a tech enthusiast, which also finds its way in many other shits.<br>Currently pursuing BCA, self-learning Android Development (Kotlin and Jetpack Compose).<br>I sometimes hang out with other languages.
 
 
 ## 🌐 Socials:
